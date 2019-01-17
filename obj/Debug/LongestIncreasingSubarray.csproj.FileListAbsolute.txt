@@ -1,0 +1,7 @@
+c:\users\данил\source\repos\LongestIncreasingSubarray\LongestIncreasingSubarray\bin\Debug\LongestIncreasingSubarray.exe.config
+c:\users\данил\source\repos\LongestIncreasingSubarray\LongestIncreasingSubarray\bin\Debug\LongestIncreasingSubarray.exe
+c:\users\данил\source\repos\LongestIncreasingSubarray\LongestIncreasingSubarray\bin\Debug\LongestIncreasingSubarray.pdb
+c:\users\данил\source\repos\LongestIncreasingSubarray\LongestIncreasingSubarray\obj\Debug\LongestIncreasingSubarray.csprojAssemblyReference.cache
+c:\users\данил\source\repos\LongestIncreasingSubarray\LongestIncreasingSubarray\obj\Debug\LongestIncreasingSubarray.csproj.CoreCompileInputs.cache
+c:\users\данил\source\repos\LongestIncreasingSubarray\LongestIncreasingSubarray\obj\Debug\LongestIncreasingSubarray.exe
+c:\users\данил\source\repos\LongestIncreasingSubarray\LongestIncreasingSubarray\obj\Debug\LongestIncreasingSubarray.pdb
